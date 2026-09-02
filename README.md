@@ -1,15 +1,14 @@
 ## 📂 Notebooks
 
-| #  | Notebook          | Status         |
-| -- | ----------------- | -------------- |
-| 01 | NumPy Practice 01 | ✅ Completed    |
-| 02 | NumPy Practice 02 | ✅ Completed    |
-| 03 | NumPy Practice 03 | ✅ Completed    |
-| 04 | NumPy Practice 04 | ✅ Completed    |
-| 05 | NumPy Practice 05 | ✅ Completed    |
-| 06 | NumPy Practice 06 | ✅ Completed    |
-| 07 | NumPy Practice 07 | ✅ Completed    |
-| 08 | NumPy Practice 08 | ✅ Completed    |
-| 09 | NumPy Practice 09 | ✅ Completed    |
-| 10 | NumPy Practice 10 | ⏳ In progress    |
-
+| #  | Notebook           | Topics / What I practiced                      |
+| -- | ------------------ | ---------------------------------------------- |
+| 01 | NumPy Basics       | Creating arrays, data types, basic operations  |
+| 02 | NumPy Arrays       | Array creation, shape, dimensions, reshaping   |
+| 03 | Indexing & Slicing | Indexing, slicing, selecting elements          |
+| 04 | Array Operations   | Mathematical operations, aggregation functions |
+| 05 | Reshaping Arrays   | `reshape()`, `ravel()`, dimensions             |
+| 06 | Combining Arrays   | `concatenate()`, `stack()`, splitting arrays   |
+| 07 | Sorting Arrays     | `sort()`, sorting along axes                   |
+| 08 | Array Manipulation | Inserting, deleting and modifying elements     |
+| 09 | Searching Arrays   | `where()`, searching and filtering elements    |
+| 10 | NumPy Practice 10  | ...                                            |
