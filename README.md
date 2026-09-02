@@ -11,5 +11,5 @@
 | 07 | NumPy Practice 07 | ✅ Completed    |
 | 08 | NumPy Practice 08 | ✅ Completed    |
 | 09 | NumPy Practice 09 | ✅ Completed    |
-| 10 | NumPy Practice 10 | 🔜 Coming soon |
+| 10 | NumPy Practice 10 | ✅ Completed    |
 
