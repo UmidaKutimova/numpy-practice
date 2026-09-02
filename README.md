@@ -11,4 +11,4 @@
 | 07 | Sorting Arrays     | `sort()`, sorting along axes                   |
 | 08 | Array Manipulation | Inserting, deleting and modifying elements     |
 | 09 | Searching Arrays   | `where()`, searching and filtering elements    |
-| 10 | NumPy Practice 10  | ...                                            |
+| 10 | NumPy Practice 10  | Sorting arrays                                            |
